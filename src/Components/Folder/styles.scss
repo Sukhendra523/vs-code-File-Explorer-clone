@@ -1,0 +1,17 @@
+.folder__container {
+  .folder {
+    margin-top: 6px;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 300px;
+    max-width: max-content;
+    cursor: pointer;
+    padding: 5px;
+    .folder-btns {
+      display: flex;
+      gap: 5px;
+    }
+  }
+}
