@@ -9,9 +9,27 @@
     max-width: max-content;
     cursor: pointer;
     padding: 5px;
+
     .folder-btns {
       display: flex;
       gap: 5px;
     }
+
+  }
+  .file{
+    margin-top: 5px;
+    padding-left: 5px;
+  }
+
+  .input-container{
+    margin-left: 40px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-top: 8px;
+  }
+
+  ul {
+    margin: 0;
   }
 }

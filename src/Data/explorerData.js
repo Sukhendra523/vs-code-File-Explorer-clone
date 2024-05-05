@@ -1,4 +1,4 @@
-export const explorer = {
+export const defaultExplorer = {
     id:"1",
     name: "root",
     isFolder: true,
